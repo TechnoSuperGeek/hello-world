@@ -1,2 +1,4 @@
 # hello-world
-Repository for Ideas and Code Snippets
+TechnoSuperGeek Here
+
+Place all code snippets and references for future projects
